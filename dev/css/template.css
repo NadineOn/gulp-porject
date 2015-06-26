@@ -1,3 +1,6 @@
 h1 {
-    font-size: 1125px;
+    font-size: 20px;
+    background: linear-gradient(180deg, #666, #ff0000);
+    border-radius: 10px;
+    color: #000;
 }
